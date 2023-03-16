@@ -13,4 +13,4 @@ This project implements ETL on whitehouse visits data using Apache Airflow.
 ## Querying Datawarehouse
 ![alt text](https://github.com/ShreyasK2411/ETL_Using_Airflow/blob/cdba11ba9aca3323f3bd257ed0c100afbfd700da/images/querying_datawarehouse.png?raw=true)
 ## Code
-https://github.com/ShreyasK2411/ETL_Using_Airflow/blob/61dabd5391beeb6cf3f1e5865563e8e62d357910/whitehouse_visits_ETL.py
+![alt text](https://github.com/ShreyasK2411/ETL_Using_Airflow/blob/61dabd5391beeb6cf3f1e5865563e8e62d357910/whitehouse_visits_ETL.py?raw=true)
