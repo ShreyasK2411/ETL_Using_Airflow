@@ -1,6 +1,6 @@
 # ETL_Using_Airflow
 ## Preview
-[Description](/Description)
+[Description](Description)
 ## Description
 This project implements ETL on whitehouse visits data using Apache Airflow.
 # Architecture Diagram
